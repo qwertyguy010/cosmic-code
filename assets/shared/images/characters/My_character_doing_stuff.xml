@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="My character doing stuff.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="0" y="0" width="479" height="494"/>
+	<SubTexture name="Right0000" x="479" y="0" width="479" height="494"/>
+	<SubTexture name="down0000" x="958" y="0" width="479" height="435"/>
+	<SubTexture name="left0000" x="1437" y="0" width="479" height="494"/>
+	<SubTexture name="up0000" x="0" y="494" width="479" height="494"/>
+</TextureAtlas>

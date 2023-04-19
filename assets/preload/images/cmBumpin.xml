@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cmBumpin.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cm logo bop0000" x="0" y="0" width="821" height="564" frameX="-17" frameY="-14" frameWidth="855" frameHeight="586"/>
+	<SubTexture name="cm logo bop0001" x="826" y="0" width="855" height="586"/>
+	<SubTexture name="cm logo bop0002" x="826" y="0" width="855" height="586"/>
+	<SubTexture name="cm logo bop0003" x="0" y="591" width="835" height="573" frameX="-11" frameY="-8" frameWidth="855" frameHeight="586"/>
+	<SubTexture name="cm logo bop0004" x="0" y="591" width="835" height="573" frameX="-11" frameY="-8" frameWidth="855" frameHeight="586"/>
+	<SubTexture name="cm logo bop0005" x="840" y="591" width="829" height="569" frameX="-13" frameY="-11" frameWidth="855" frameHeight="586"/>
+	<SubTexture name="cm logo bop0006" x="840" y="591" width="829" height="569" frameX="-13" frameY="-11" frameWidth="855" frameHeight="586"/>
+	<SubTexture name="cm logo bop0007" x="840" y="591" width="829" height="569" frameX="-13" frameY="-11" frameWidth="855" frameHeight="586"/>
+	<SubTexture name="cm logo bop0008" x="840" y="591" width="829" height="569" frameX="-13" frameY="-11" frameWidth="855" frameHeight="586"/>
+	<SubTexture name="cm logo bop0009" x="840" y="591" width="829" height="569" frameX="-13" frameY="-11" frameWidth="855" frameHeight="586"/>
+	<SubTexture name="cm logo bop0010" x="840" y="591" width="829" height="569" frameX="-13" frameY="-11" frameWidth="855" frameHeight="586"/>
+	<SubTexture name="cm logo bop0011" x="840" y="591" width="829" height="569" frameX="-13" frameY="-11" frameWidth="855" frameHeight="586"/>
+	<SubTexture name="cm logo bop0012" x="840" y="591" width="829" height="569" frameX="-13" frameY="-11" frameWidth="855" frameHeight="586"/>
+	<SubTexture name="cm logo bop0013" x="840" y="591" width="829" height="569" frameX="-13" frameY="-11" frameWidth="855" frameHeight="586"/>
+	<SubTexture name="cm logo bop0014" x="840" y="591" width="829" height="569" frameX="-13" frameY="-11" frameWidth="855" frameHeight="586"/>
+</TextureAtlas>

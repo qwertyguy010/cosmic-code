@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tt_sus_green_scared_cuz_of_red_imposter_lmao_bg.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Green scared because he think is red imposter0000" x="0" y="0" width="81" height="99" frameX="0" frameY="-1" frameWidth="81" frameHeight="100"/>
+	<SubTexture name="Green scared because he think is red imposter0001" x="81" y="0" width="80" height="99" frameX="-1" frameY="-1" frameWidth="81" frameHeight="100"/>
+	<SubTexture name="Green scared because he think is red imposter0002" x="161" y="0" width="80" height="100" frameX="-1" frameY="0" frameWidth="81" frameHeight="100"/>
+	<SubTexture name="Green scared because he think is red imposter0003" x="0" y="100" width="80" height="98" frameX="-1" frameY="-2" frameWidth="81" frameHeight="100"/>
+</TextureAtlas>

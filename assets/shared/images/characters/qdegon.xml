@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="qdegon.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="qdown0000" x="0" y="0" width="412" height="509" frameX="-54" frameY="-6" frameWidth="521" frameHeight="520"/>
+	<SubTexture name="qdown0001" x="412" y="0" width="490" height="509" frameX="-28" frameY="-10" frameWidth="521" frameHeight="520"/>
+	<SubTexture name="qdown0002" x="902" y="0" width="511" height="448" frameX="-9" frameY="-55" frameWidth="521" frameHeight="520"/>
+	<SubTexture name="qdown0003" x="1413" y="0" width="503" height="498" frameX="-17" frameY="-5" frameWidth="521" frameHeight="520"/>
+	<SubTexture name="qdown0004" x="1916" y="0" width="417" height="516" frameX="-46" frameY="0" frameWidth="521" frameHeight="520"/>
+	<SubTexture name="qdown0005" x="2333" y="0" width="508" height="485" frameX="-5" frameY="-18" frameWidth="521" frameHeight="520"/>
+	<SubTexture name="qdown0006" x="2841" y="0" width="521" height="452" frameX="0" frameY="-52" frameWidth="521" frameHeight="520"/>
+	<SubTexture name="qdown0007" x="3362" y="0" width="464" height="509" frameX="-26" frameY="-11" frameWidth="521" frameHeight="520"/>
+	<SubTexture name="qdown0008" x="3826" y="0" width="438" height="510" frameX="-39" frameY="-8" frameWidth="521" frameHeight="520"/>
+	<SubTexture name="qdown0009" x="4264" y="0" width="414" height="510" frameX="-52" frameY="-6" frameWidth="521" frameHeight="520"/>
+	<SubTexture name="qdown0010" x="4264" y="0" width="414" height="510" frameX="-52" frameY="-6" frameWidth="521" frameHeight="520"/>
+	<SubTexture name="qdown0011" x="4264" y="0" width="414" height="510" frameX="-52" frameY="-6" frameWidth="521" frameHeight="520"/>
+	<SubTexture name="qdown0012" x="4264" y="0" width="414" height="510" frameX="-52" frameY="-6" frameWidth="521" frameHeight="520"/>
+	<SubTexture name="qdown0013" x="4264" y="0" width="414" height="510" frameX="-52" frameY="-6" frameWidth="521" frameHeight="520"/>
+	<SubTexture name="qdown0014" x="4264" y="0" width="414" height="510" frameX="-52" frameY="-6" frameWidth="521" frameHeight="520"/>
+	<SubTexture name="qidle0000" x="4678" y="0" width="1133" height="1159" frameX="-159" frameY="-155" frameWidth="1356" frameHeight="1334"/>
+	<SubTexture name="qidle0001" x="5811" y="0" width="1133" height="1159" frameX="-159" frameY="-155" frameWidth="1356" frameHeight="1334"/>
+	<SubTexture name="qidle0002" x="6944" y="0" width="1133" height="1159" frameX="-159" frameY="-155" frameWidth="1356" frameHeight="1334"/>
+	<SubTexture name="qidle0003" x="0" y="1159" width="1133" height="1159" frameX="-159" frameY="-155" frameWidth="1356" frameHeight="1334"/>
+	<SubTexture name="qidle0004" x="1133" y="1159" width="1133" height="1159" frameX="-159" frameY="-155" frameWidth="1356" frameHeight="1334"/>
+	<SubTexture name="qidle0005" x="2266" y="1159" width="1133" height="1159" frameX="-159" frameY="-155" frameWidth="1356" frameHeight="1334"/>
+	<SubTexture name="qidle0006" x="3399" y="1159" width="1133" height="1159" frameX="-159" frameY="-155" frameWidth="1356" frameHeight="1334"/>
+	<SubTexture name="qidle0007" x="4532" y="1159" width="1133" height="1159" frameX="-159" frameY="-155" frameWidth="1356" frameHeight="1334"/>
+	<SubTexture name="qidle0008" x="5665" y="1159" width="1356" height="1334"/>
+	<SubTexture name="qidle0009" x="5665" y="1159" width="1356" height="1334"/>
+	<SubTexture name="qidle0010" x="5665" y="1159" width="1356" height="1334"/>
+	<SubTexture name="qidle0011" x="5665" y="1159" width="1356" height="1334"/>
+	<SubTexture name="qidle0012" x="5665" y="1159" width="1356" height="1334"/>
+	<SubTexture name="qidle0013" x="5665" y="1159" width="1356" height="1334"/>
+	<SubTexture name="qidle0014" x="5665" y="1159" width="1356" height="1334"/>
+	<SubTexture name="qleft0000" x="0" y="2493" width="1435" height="1361"/>
+	<SubTexture name="qleft0001" x="1435" y="2493" width="1435" height="1361"/>
+	<SubTexture name="qleft0002" x="2870" y="2493" width="1435" height="1361"/>
+	<SubTexture name="qleft0003" x="4305" y="2493" width="1435" height="1361"/>
+	<SubTexture name="qleft0004" x="4305" y="2493" width="1435" height="1361"/>
+	<SubTexture name="qleft0005" x="4305" y="2493" width="1435" height="1361"/>
+	<SubTexture name="qleft0006" x="4305" y="2493" width="1435" height="1361"/>
+	<SubTexture name="qleft0007" x="4305" y="2493" width="1435" height="1361"/>
+	<SubTexture name="qleft0008" x="4305" y="2493" width="1435" height="1361"/>
+	<SubTexture name="qleft0009" x="4305" y="2493" width="1435" height="1361"/>
+	<SubTexture name="qleft0010" x="4305" y="2493" width="1435" height="1361"/>
+	<SubTexture name="qleft0011" x="4305" y="2493" width="1435" height="1361"/>
+	<SubTexture name="qleft0012" x="4305" y="2493" width="1435" height="1361"/>
+	<SubTexture name="qleft0013" x="4305" y="2493" width="1435" height="1361"/>
+	<SubTexture name="qleft0014" x="4305" y="2493" width="1435" height="1361"/>
+	<SubTexture name="qright0000" x="5740" y="2493" width="1072" height="721" frameX="-25" frameY="-1" frameWidth="1097" frameHeight="722"/>
+	<SubTexture name="qright0001" x="6812" y="2493" width="1016" height="684" frameX="-19" frameY="-18" frameWidth="1097" frameHeight="722"/>
+	<SubTexture name="qright0002" x="0" y="3854" width="1012" height="674" frameX="-6" frameY="-23" frameWidth="1097" frameHeight="722"/>
+	<SubTexture name="qright0003" x="1012" y="3854" width="959" height="512" frameX="-2" frameY="-67" frameWidth="1097" frameHeight="722"/>
+	<SubTexture name="qright0004" x="1012" y="3854" width="959" height="512" frameX="-2" frameY="-67" frameWidth="1097" frameHeight="722"/>
+	<SubTexture name="qright0005" x="1012" y="3854" width="959" height="512" frameX="-2" frameY="-67" frameWidth="1097" frameHeight="722"/>
+	<SubTexture name="qright0006" x="1012" y="3854" width="959" height="512" frameX="-2" frameY="-67" frameWidth="1097" frameHeight="722"/>
+	<SubTexture name="qright0007" x="1012" y="3854" width="959" height="512" frameX="-2" frameY="-67" frameWidth="1097" frameHeight="722"/>
+	<SubTexture name="qright0008" x="1012" y="3854" width="959" height="512" frameX="-2" frameY="-67" frameWidth="1097" frameHeight="722"/>
+	<SubTexture name="qright0009" x="1012" y="3854" width="959" height="512" frameX="-2" frameY="-67" frameWidth="1097" frameHeight="722"/>
+	<SubTexture name="qright0010" x="1012" y="3854" width="959" height="512" frameX="-2" frameY="-67" frameWidth="1097" frameHeight="722"/>
+	<SubTexture name="qright0011" x="1012" y="3854" width="959" height="512" frameX="-2" frameY="-67" frameWidth="1097" frameHeight="722"/>
+	<SubTexture name="qright0012" x="1012" y="3854" width="959" height="512" frameX="-2" frameY="-67" frameWidth="1097" frameHeight="722"/>
+	<SubTexture name="qright0013" x="1012" y="3854" width="959" height="512" frameX="-2" frameY="-67" frameWidth="1097" frameHeight="722"/>
+	<SubTexture name="qright0014" x="1012" y="3854" width="959" height="512" frameX="-2" frameY="-67" frameWidth="1097" frameHeight="722"/>
+	<SubTexture name="qup0000" x="1971" y="3854" width="1353" height="1305" frameX="-1" frameY="0" frameWidth="1355" frameHeight="1305"/>
+	<SubTexture name="qup0001" x="3324" y="3854" width="1355" height="1305"/>
+	<SubTexture name="qup0002" x="4679" y="3854" width="1355" height="1305"/>
+	<SubTexture name="qup0003" x="6034" y="3854" width="1204" height="509" frameX="-61" frameY="-410" frameWidth="1355" frameHeight="1305"/>
+	<SubTexture name="qup0004" x="6034" y="3854" width="1204" height="509" frameX="-61" frameY="-410" frameWidth="1355" frameHeight="1305"/>
+	<SubTexture name="qup0005" x="6034" y="3854" width="1204" height="509" frameX="-61" frameY="-410" frameWidth="1355" frameHeight="1305"/>
+	<SubTexture name="qup0006" x="6034" y="3854" width="1204" height="509" frameX="-61" frameY="-410" frameWidth="1355" frameHeight="1305"/>
+	<SubTexture name="qup0007" x="6034" y="3854" width="1204" height="509" frameX="-61" frameY="-410" frameWidth="1355" frameHeight="1305"/>
+	<SubTexture name="qup0008" x="6034" y="3854" width="1204" height="509" frameX="-61" frameY="-410" frameWidth="1355" frameHeight="1305"/>
+	<SubTexture name="qup0009" x="6034" y="3854" width="1204" height="509" frameX="-61" frameY="-410" frameWidth="1355" frameHeight="1305"/>
+	<SubTexture name="qup0010" x="6034" y="3854" width="1204" height="509" frameX="-61" frameY="-410" frameWidth="1355" frameHeight="1305"/>
+	<SubTexture name="qup0011" x="6034" y="3854" width="1204" height="509" frameX="-61" frameY="-410" frameWidth="1355" frameHeight="1305"/>
+	<SubTexture name="qup0012" x="6034" y="3854" width="1204" height="509" frameX="-61" frameY="-410" frameWidth="1355" frameHeight="1305"/>
+	<SubTexture name="qup0013" x="6034" y="3854" width="1204" height="509" frameX="-61" frameY="-410" frameWidth="1355" frameHeight="1305"/>
+	<SubTexture name="qup0014" x="6034" y="3854" width="1204" height="509" frameX="-61" frameY="-410" frameWidth="1355" frameHeight="1305"/>
+</TextureAtlas>

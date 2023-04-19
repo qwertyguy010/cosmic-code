@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-75
+			],
+			"anim": "idk what hes sayin",
+			"fps": 24,
+			"name": "Cosmic Luigi umm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-60
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Cosmic Luigi Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-155
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Cosmic Luigi Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				-84
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Cosmic Luigi Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				-45
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Cosmic Luigi Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-103
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Cosmic Luigi Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CosmicLuigiAssets",
+	"position": [
+		0,
+		20
+	],
+	"healthicon": "cl",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		200
+	],
+	"camera_position": [
+		10,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

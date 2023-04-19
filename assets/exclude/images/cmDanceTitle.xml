@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cmDanceTitle.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cosmic mario Title0000" x="0" y="0" width="766" height="884" frameX="0" frameY="-23" frameWidth="766" frameHeight="907"/>
+	<SubTexture name="cosmic mario Title0001" x="0" y="0" width="766" height="884" frameX="0" frameY="-23" frameWidth="766" frameHeight="907"/>
+	<SubTexture name="cosmic mario Title0002" x="766" y="0" width="752" height="892" frameX="-3" frameY="-15" frameWidth="766" frameHeight="907"/>
+	<SubTexture name="cosmic mario Title0003" x="766" y="0" width="752" height="892" frameX="-3" frameY="-15" frameWidth="766" frameHeight="907"/>
+	<SubTexture name="cosmic mario Title0004" x="1518" y="0" width="742" height="901" frameX="-4" frameY="-6" frameWidth="766" frameHeight="907"/>
+	<SubTexture name="cosmic mario Title0005" x="1518" y="0" width="742" height="901" frameX="-4" frameY="-6" frameWidth="766" frameHeight="907"/>
+	<SubTexture name="cosmic mario Title0006" x="2260" y="0" width="737" height="903" frameX="-4" frameY="-4" frameWidth="766" frameHeight="907"/>
+	<SubTexture name="cosmic mario Title0007" x="2260" y="0" width="737" height="903" frameX="-4" frameY="-4" frameWidth="766" frameHeight="907"/>
+	<SubTexture name="cosmic mario Title0008" x="2997" y="0" width="729" height="907" frameX="-4" frameY="0" frameWidth="766" frameHeight="907"/>
+	<SubTexture name="cosmic mario Title0009" x="2997" y="0" width="729" height="907" frameX="-4" frameY="0" frameWidth="766" frameHeight="907"/>
+	<SubTexture name="cosmic mario Title0010" x="2997" y="0" width="729" height="907" frameX="-4" frameY="0" frameWidth="766" frameHeight="907"/>
+	<SubTexture name="cosmic mario Title0011" x="2997" y="0" width="729" height="907" frameX="-4" frameY="0" frameWidth="766" frameHeight="907"/>
+	<SubTexture name="cosmic mario Title0012" x="2997" y="0" width="729" height="907" frameX="-4" frameY="0" frameWidth="766" frameHeight="907"/>
+	<SubTexture name="cosmic mario Title0013" x="2997" y="0" width="729" height="907" frameX="-4" frameY="0" frameWidth="766" frameHeight="907"/>
+	<SubTexture name="cosmic mario Title0014" x="0" y="0" width="766" height="884" frameX="0" frameY="-23" frameWidth="766" frameHeight="907"/>
+	<SubTexture name="cosmic mario Title0015" x="0" y="0" width="766" height="884" frameX="0" frameY="-23" frameWidth="766" frameHeight="907"/>
+	<SubTexture name="cosmic mario Title0016" x="0" y="0" width="766" height="884" frameX="0" frameY="-23" frameWidth="766" frameHeight="907"/>
+	<SubTexture name="cosmic mario Title0017" x="766" y="0" width="752" height="892" frameX="-3" frameY="-15" frameWidth="766" frameHeight="907"/>
+	<SubTexture name="cosmic mario Title0018" x="766" y="0" width="752" height="892" frameX="-3" frameY="-15" frameWidth="766" frameHeight="907"/>
+	<SubTexture name="cosmic mario Title0019" x="1518" y="0" width="742" height="901" frameX="-4" frameY="-6" frameWidth="766" frameHeight="907"/>
+	<SubTexture name="cosmic mario Title0020" x="1518" y="0" width="742" height="901" frameX="-4" frameY="-6" frameWidth="766" frameHeight="907"/>
+	<SubTexture name="cosmic mario Title0021" x="2260" y="0" width="737" height="903" frameX="-4" frameY="-4" frameWidth="766" frameHeight="907"/>
+	<SubTexture name="cosmic mario Title0022" x="2260" y="0" width="737" height="903" frameX="-4" frameY="-4" frameWidth="766" frameHeight="907"/>
+	<SubTexture name="cosmic mario Title0023" x="2997" y="0" width="729" height="907" frameX="-4" frameY="0" frameWidth="766" frameHeight="907"/>
+	<SubTexture name="cosmic mario Title0024" x="2997" y="0" width="729" height="907" frameX="-4" frameY="0" frameWidth="766" frameHeight="907"/>
+	<SubTexture name="cosmic mario Title0025" x="2997" y="0" width="729" height="907" frameX="-4" frameY="0" frameWidth="766" frameHeight="907"/>
+	<SubTexture name="cosmic mario Title0026" x="2997" y="0" width="729" height="907" frameX="-4" frameY="0" frameWidth="766" frameHeight="907"/>
+	<SubTexture name="cosmic mario Title0027" x="2997" y="0" width="729" height="907" frameX="-4" frameY="0" frameWidth="766" frameHeight="907"/>
+	<SubTexture name="cosmic mario Title0028" x="2997" y="0" width="729" height="907" frameX="-4" frameY="0" frameWidth="766" frameHeight="907"/>
+	<SubTexture name="cosmic mario Title0029" x="0" y="0" width="766" height="884" frameX="0" frameY="-23" frameWidth="766" frameHeight="907"/>
+</TextureAtlas>

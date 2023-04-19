@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-150
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "cosmic mario Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-220
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "cosmic mario Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				-130
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "cosmic mario Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-183
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "cosmic mario Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-149
+			],
+			"anim": "peace",
+			"fps": 24,
+			"name": "cosmic mario Peace Sign",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-157
+			],
+			"anim": "thumbsup",
+			"fps": 24,
+			"name": "cosmic mario Thumbs Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-145
+			],
+			"anim": "ugh",
+			"fps": 24,
+			"name": "cosmic mario Ugh",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "cosmic Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CosmicMarioAssets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "cm",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		255
+	],
+	"camera_position": [
+		0,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

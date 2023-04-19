@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				314,
+				275
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "blackhole Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				482,
+				302
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "blackhole dies",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				317,
+				279
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "blackhole Dead confirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF_death_blackhole_assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-9000,
+		9000
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

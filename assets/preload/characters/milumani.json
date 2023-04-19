@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "milumani idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				-18
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "milumani left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				-18
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "milumani down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				-20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "milumani up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-19
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "milumani right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/milumani",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "milumani",
+	"flip_x": false,
+	"healthbar_colors": [
+		125,
+		220,
+		218
+	],
+	"camera_position": [
+		-120,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

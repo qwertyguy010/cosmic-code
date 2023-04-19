@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MONITOR.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="monitor standing there0000" x="0" y="0" width="1103" height="876" frameX="0" frameY="0" frameWidth="1107" frameHeight="876"/>
+	<SubTexture name="monitor standing there0001" x="1203" y="0" width="1107" height="875" frameX="0" frameY="0" frameWidth="1107" frameHeight="876"/>
+	<SubTexture name="monitor standing there0002" x="2410" y="0" width="1103" height="876" frameX="0" frameY="0" frameWidth="1107" frameHeight="876"/>
+	<SubTexture name="monitor standing there0003" x="1203" y="0" width="1107" height="875" frameX="0" frameY="0" frameWidth="1107" frameHeight="876"/>
+	<SubTexture name="monitor standing there0004" x="0" y="0" width="1103" height="876" frameX="0" frameY="0" frameWidth="1107" frameHeight="876"/>
+	<SubTexture name="monitor standing there0005" x="1203" y="0" width="1107" height="875" frameX="0" frameY="0" frameWidth="1107" frameHeight="876"/>
+	<SubTexture name="monitor standing there0006" x="0" y="0" width="1103" height="876" frameX="0" frameY="0" frameWidth="1107" frameHeight="876"/>
+	<SubTexture name="monitor standing there0007" x="1203" y="0" width="1107" height="875" frameX="0" frameY="0" frameWidth="1107" frameHeight="876"/>
+</TextureAtlas>

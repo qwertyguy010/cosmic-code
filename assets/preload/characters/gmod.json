@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Gmod Yoshi Idle"
+		},
+		{
+			"offsets": [
+				80,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Gmod Yoshi Left"
+		},
+		{
+			"offsets": [
+				-70,
+				-294
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Gmod Yoshi Down"
+		},
+		{
+			"offsets": [
+				-40,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Gmod Yoshi Up"
+		},
+		{
+			"offsets": [
+				120,
+				-52
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Gmod Yoshi Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gmod",
+	"position": [
+		-70,
+		170
+	],
+	"healthicon": "gmod",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		60,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2.6
+}

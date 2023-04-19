@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Malke idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-15
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Malke sing Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-16
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Malke sing Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				17
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Malke sing Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Malke sing Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-14
+			],
+			"anim": "confuse",
+			"fps": 24,
+			"name": "Malke confused",
+			"indices": []
+		},
+		{
+			"offsets": [
+				11,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Malke miss LEFT"
+		},
+		{
+			"offsets": [
+				6,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Malke miss DOWN"
+		},
+		{
+			"offsets": [
+				1,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Malke miss UP"
+		},
+		{
+			"offsets": [
+				-36,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Malke miss RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Malke_Ass_ets",
+	"position": [
+		520,
+		500
+	],
+	"healthicon": "malke",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		64
+	],
+	"camera_position": [
+		120,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

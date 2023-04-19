@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="blue_lobster_assets.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+    <SubTexture name="lobster down0000" x="734" y="179" width="247" height="91" frameX="-134" frameY="-261" frameWidth="500" frameHeight="500" />
+    <SubTexture name="lobster down0001" x="734" y="270" width="244" height="68" frameX="-137" frameY="-284" frameWidth="500" frameHeight="500" />
+    <SubTexture name="lobster down0002" x="734" y="338" width="243" height="59" frameX="-138" frameY="-296" frameWidth="500" frameHeight="500" />
+    <SubTexture name="lobster down0003" x="1058" y="806" width="245" height="72" frameX="-135" frameY="-282" frameWidth="500" frameHeight="500" />
+    <SubTexture name="lobster idle0000" x="0" y="349" width="230" height="180" frameX="-137" frameY="-171" frameWidth="500" frameHeight="500" />
+    <SubTexture name="lobster idle0001" x="1058" y="515" width="272" height="148" frameX="-125" frameY="-204" frameWidth="500" frameHeight="500" />
+    <SubTexture name="lobster idle0002" x="714" y="709" width="327" height="122" frameX="-99" frameY="-232" frameWidth="500" frameHeight="500" />
+    <SubTexture name="lobster idle0003" x="1058" y="663" width="292" height="143" frameX="-120" frameY="-208" frameWidth="500" frameHeight="500" />
+    <SubTexture name="lobster idle0004" x="1058" y="178" width="243" height="175" frameX="-138" frameY="-176" frameWidth="500" frameHeight="500" />
+    <SubTexture name="lobster left0000" x="230" y="349" width="328" height="180" frameX="-49" frameY="-171" frameWidth="500" frameHeight="500" />
+    <SubTexture name="lobster left0001" x="346" y="709" width="368" height="178" frameX="-8" frameY="-173" frameWidth="500" frameHeight="500" />
+    <SubTexture name="lobster left0002" x="0" y="529" width="375" height="180" frameX="0" frameY="-171" frameWidth="500" frameHeight="500" />
+    <SubTexture name="lobster left0003" x="1058" y="0" width="360" height="178" frameX="-16" frameY="-173" frameWidth="500" frameHeight="500" />
+    <SubTexture name="lobster right0000" x="734" y="0" width="324" height="179" frameX="-141" frameY="-175" frameWidth="500" frameHeight="500" />
+    <SubTexture name="lobster right0001" x="0" y="709" width="346" height="179" frameX="-142" frameY="-175" frameWidth="500" frameHeight="500" />
+    <SubTexture name="lobster right0002" x="375" y="529" width="357" height="180" frameX="-143" frameY="-174" frameWidth="500" frameHeight="500" />
+    <SubTexture name="lobster right0003" x="1058" y="353" width="360" height="162" frameX="-140" frameY="-189" frameWidth="500" frameHeight="500" />
+    <SubTexture name="lobster up0000" x="0" y="0" width="244" height="349" frameX="-136" frameY="0" frameWidth="500" frameHeight="500" />
+    <SubTexture name="lobster up0001" x="486" y="0" width="248" height="348" frameX="-132" frameY="0" frameWidth="500" frameHeight="500" />
+    <SubTexture name="lobster up0002" x="244" y="0" width="242" height="349" frameX="-138" frameY="0" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

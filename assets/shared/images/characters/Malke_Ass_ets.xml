@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Malke_Ass_ets.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Malke confused instance 10000" x="0" y="0" width="205" height="218" frameX="-7" frameY="-2" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10001" x="0" y="0" width="205" height="218" frameX="-7" frameY="-2" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10002" x="305" y="0" width="205" height="218" frameX="-7" frameY="-2" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10003" x="305" y="0" width="205" height="218" frameX="-7" frameY="-2" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10004" x="610" y="0" width="205" height="218" frameX="-7" frameY="-2" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10005" x="610" y="0" width="205" height="218" frameX="-7" frameY="-2" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10006" x="915" y="0" width="205" height="218" frameX="-7" frameY="-2" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10007" x="1220" y="0" width="205" height="218" frameX="-7" frameY="-2" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10008" x="1220" y="0" width="205" height="218" frameX="-7" frameY="-2" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10009" x="1220" y="0" width="205" height="218" frameX="-7" frameY="-2" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10010" x="1220" y="0" width="205" height="218" frameX="-7" frameY="-2" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10011" x="1220" y="0" width="205" height="218" frameX="-7" frameY="-2" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10012" x="1525" y="0" width="258" height="218" frameX="-7" frameY="-2" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10013" x="1883" y="0" width="258" height="218" frameX="-7" frameY="-2" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10014" x="2241" y="0" width="263" height="218" frameX="-7" frameY="-2" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10015" x="2604" y="0" width="264" height="218" frameX="-7" frameY="-2" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10016" x="2968" y="0" width="266" height="218" frameX="-7" frameY="-2" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10017" x="3334" y="0" width="269" height="218" frameX="-7" frameY="-2" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10018" x="3703" y="0" width="269" height="218" frameX="-7" frameY="-2" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10019" x="0" y="318" width="274" height="218" frameX="-7" frameY="-2" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10020" x="374" y="318" width="280" height="217" frameX="-3" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10021" x="754" y="318" width="282" height="217" frameX="-1" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10022" x="1136" y="318" width="286" height="220"/>
+	<SubTexture name="Malke confused instance 10023" x="1522" y="318" width="286" height="220"/>
+	<SubTexture name="Malke confused instance 10024" x="1908" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10025" x="2272" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10026" x="2636" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10027" x="1908" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10028" x="3000" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10029" x="3364" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10030" x="3728" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10031" x="0" y="638" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10032" x="1908" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10033" x="2272" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10034" x="2636" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10035" x="3364" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10036" x="3000" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10037" x="0" y="638" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10038" x="364" y="638" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10039" x="2272" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10040" x="2636" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10041" x="1908" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10042" x="3000" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10043" x="728" y="638" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10044" x="364" y="638" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10045" x="3728" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10046" x="2636" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10047" x="1908" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10048" x="2272" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10049" x="728" y="638" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10050" x="3364" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10051" x="3728" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10052" x="0" y="638" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10053" x="1908" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10054" x="2272" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10055" x="2636" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10056" x="3364" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10057" x="3000" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10058" x="0" y="638" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10059" x="364" y="638" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10060" x="2272" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10061" x="2636" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10062" x="1908" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10063" x="3000" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10064" x="728" y="638" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10065" x="364" y="638" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10066" x="3728" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10067" x="2636" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10068" x="1908" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke confused instance 10069" x="2272" y="318" width="264" height="217" frameX="0" frameY="-3" frameWidth="286" frameHeight="220"/>
+	<SubTexture name="Malke idle instance 10000" x="1092" y="638" width="205" height="218" frameX="0" frameY="-12" frameWidth="205" frameHeight="230"/>
+	<SubTexture name="Malke idle instance 10001" x="1092" y="638" width="205" height="218" frameX="0" frameY="-12" frameWidth="205" frameHeight="230"/>
+	<SubTexture name="Malke idle instance 10002" x="1397" y="638" width="197" height="226" frameX="-6" frameY="-4" frameWidth="205" frameHeight="230"/>
+	<SubTexture name="Malke idle instance 10003" x="1397" y="638" width="197" height="226" frameX="-6" frameY="-4" frameWidth="205" frameHeight="230"/>
+	<SubTexture name="Malke idle instance 10004" x="1694" y="638" width="188" height="230" frameX="-12" frameY="0" frameWidth="205" frameHeight="230"/>
+	<SubTexture name="Malke idle instance 10005" x="1982" y="638" width="185" height="230" frameX="-15" frameY="0" frameWidth="205" frameHeight="230"/>
+	<SubTexture name="Malke idle instance 10006" x="1982" y="638" width="185" height="230" frameX="-15" frameY="0" frameWidth="205" frameHeight="230"/>
+	<SubTexture name="Malke idle instance 10007" x="1982" y="638" width="185" height="230" frameX="-15" frameY="0" frameWidth="205" frameHeight="230"/>
+	<SubTexture name="Malke idle instance 10008" x="1982" y="638" width="185" height="230" frameX="-15" frameY="0" frameWidth="205" frameHeight="230"/>
+	<SubTexture name="Malke miss DOWN instance 10000" x="2267" y="638" width="209" height="203" frameX="0" frameY="-16" frameWidth="209" frameHeight="219"/>
+	<SubTexture name="Malke miss DOWN instance 10001" x="2576" y="638" width="209" height="219"/>
+	<SubTexture name="Malke miss DOWN instance 10002" x="2885" y="638" width="209" height="219"/>
+	<SubTexture name="Malke miss DOWN instance 10003" x="2576" y="638" width="209" height="219"/>
+	<SubTexture name="Malke miss DOWN instance 10004" x="2885" y="638" width="209" height="219"/>
+	<SubTexture name="Malke miss DOWN instance 10005" x="2576" y="638" width="209" height="219"/>
+	<SubTexture name="Malke miss DOWN instance 10006" x="2885" y="638" width="209" height="219"/>
+	<SubTexture name="Malke miss DOWN instance 10007" x="2576" y="638" width="209" height="219"/>
+	<SubTexture name="Malke miss DOWN instance 10008" x="2885" y="638" width="209" height="219"/>
+	<SubTexture name="Malke miss DOWN instance 10009" x="2576" y="638" width="209" height="219"/>
+	<SubTexture name="Malke miss DOWN instance 10010" x="2885" y="638" width="209" height="219"/>
+	<SubTexture name="Malke miss LEFT instance 10000" x="3194" y="638" width="213" height="219"/>
+	<SubTexture name="Malke miss LEFT instance 10001" x="3507" y="638" width="213" height="219"/>
+	<SubTexture name="Malke miss LEFT instance 10002" x="3820" y="638" width="213" height="219"/>
+	<SubTexture name="Malke miss LEFT instance 10003" x="3507" y="638" width="213" height="219"/>
+	<SubTexture name="Malke miss LEFT instance 10004" x="3820" y="638" width="213" height="219"/>
+	<SubTexture name="Malke miss LEFT instance 10005" x="3507" y="638" width="213" height="219"/>
+	<SubTexture name="Malke miss LEFT instance 10006" x="3820" y="638" width="213" height="219"/>
+	<SubTexture name="Malke miss LEFT instance 10007" x="3507" y="638" width="213" height="219"/>
+	<SubTexture name="Malke miss LEFT instance 10008" x="3820" y="638" width="213" height="219"/>
+	<SubTexture name="Malke miss LEFT instance 10009" x="3507" y="638" width="213" height="219"/>
+	<SubTexture name="Malke miss LEFT instance 10010" x="3820" y="638" width="213" height="219"/>
+	<SubTexture name="Malke miss RIGHT instance 10000" x="0" y="968" width="179" height="228" frameX="0" frameY="-14" frameWidth="179" frameHeight="242"/>
+	<SubTexture name="Malke miss RIGHT instance 10001" x="279" y="968" width="179" height="242"/>
+	<SubTexture name="Malke miss RIGHT instance 10002" x="558" y="968" width="179" height="242"/>
+	<SubTexture name="Malke miss RIGHT instance 10003" x="279" y="968" width="179" height="242"/>
+	<SubTexture name="Malke miss RIGHT instance 10004" x="558" y="968" width="179" height="242"/>
+	<SubTexture name="Malke miss RIGHT instance 10005" x="279" y="968" width="179" height="242"/>
+	<SubTexture name="Malke miss RIGHT instance 10006" x="558" y="968" width="179" height="242"/>
+	<SubTexture name="Malke miss RIGHT instance 10007" x="837" y="968" width="179" height="242"/>
+	<SubTexture name="Malke miss RIGHT instance 10008" x="558" y="968" width="179" height="242"/>
+	<SubTexture name="Malke miss RIGHT instance 10009" x="279" y="968" width="179" height="242"/>
+	<SubTexture name="Malke miss RIGHT instance 10010" x="558" y="968" width="179" height="242"/>
+	<SubTexture name="Malke miss UP instance 10000" x="1116" y="968" width="206" height="242"/>
+	<SubTexture name="Malke miss UP instance 10001" x="1422" y="968" width="206" height="242"/>
+	<SubTexture name="Malke miss UP instance 10002" x="1728" y="968" width="206" height="242"/>
+	<SubTexture name="Malke miss UP instance 10003" x="1422" y="968" width="206" height="242"/>
+	<SubTexture name="Malke miss UP instance 10004" x="1728" y="968" width="206" height="242"/>
+	<SubTexture name="Malke miss UP instance 10005" x="2034" y="968" width="206" height="242"/>
+	<SubTexture name="Malke miss UP instance 10006" x="2340" y="968" width="206" height="242"/>
+	<SubTexture name="Malke miss UP instance 10007" x="1422" y="968" width="206" height="242"/>
+	<SubTexture name="Malke miss UP instance 10008" x="1728" y="968" width="206" height="242"/>
+	<SubTexture name="Malke miss UP instance 10009" x="1422" y="968" width="206" height="242"/>
+	<SubTexture name="Malke miss UP instance 10010" x="1728" y="968" width="206" height="242"/>
+	<SubTexture name="Malke sing Down instance 10000" x="2646" y="968" width="209" height="203" frameX="0" frameY="-16" frameWidth="209" frameHeight="219"/>
+	<SubTexture name="Malke sing Down instance 10001" x="2646" y="968" width="209" height="203" frameX="0" frameY="-16" frameWidth="209" frameHeight="219"/>
+	<SubTexture name="Malke sing Down instance 10002" x="2955" y="968" width="204" height="211" frameX="-2" frameY="-8" frameWidth="209" frameHeight="219"/>
+	<SubTexture name="Malke sing Down instance 10003" x="2955" y="968" width="204" height="211" frameX="-2" frameY="-8" frameWidth="209" frameHeight="219"/>
+	<SubTexture name="Malke sing Down instance 10004" x="3259" y="968" width="203" height="219" frameX="-2" frameY="0" frameWidth="209" frameHeight="219"/>
+	<SubTexture name="Malke sing Down instance 10005" x="3562" y="968" width="203" height="219" frameX="-2" frameY="0" frameWidth="209" frameHeight="219"/>
+	<SubTexture name="Malke sing Down instance 10006" x="3562" y="968" width="203" height="219" frameX="-2" frameY="0" frameWidth="209" frameHeight="219"/>
+	<SubTexture name="Malke sing Down instance 10007" x="3562" y="968" width="203" height="219" frameX="-2" frameY="0" frameWidth="209" frameHeight="219"/>
+	<SubTexture name="Malke sing Down instance 10008" x="3562" y="968" width="203" height="219" frameX="-2" frameY="0" frameWidth="209" frameHeight="219"/>
+	<SubTexture name="Malke sing Down instance 10009" x="3562" y="968" width="203" height="219" frameX="-2" frameY="0" frameWidth="209" frameHeight="219"/>
+	<SubTexture name="Malke sing Left instance 10000" x="3194" y="638" width="213" height="219"/>
+	<SubTexture name="Malke sing Left instance 10001" x="3194" y="638" width="213" height="219"/>
+	<SubTexture name="Malke sing Left instance 10002" x="3865" y="968" width="198" height="218" frameX="-12" frameY="0" frameWidth="212" frameHeight="218"/>
+	<SubTexture name="Malke sing Left instance 10003" x="0" y="1310" width="191" height="218" frameX="-19" frameY="0" frameWidth="212" frameHeight="218"/>
+	<SubTexture name="Malke sing Left instance 10004" x="0" y="1310" width="191" height="218" frameX="-19" frameY="0" frameWidth="212" frameHeight="218"/>
+	<SubTexture name="Malke sing Left instance 10005" x="291" y="1310" width="188" height="218" frameX="-22" frameY="0" frameWidth="212" frameHeight="218"/>
+	<SubTexture name="Malke sing Left instance 10006" x="291" y="1310" width="188" height="218" frameX="-22" frameY="0" frameWidth="212" frameHeight="218"/>
+	<SubTexture name="Malke sing Left instance 10007" x="291" y="1310" width="188" height="218" frameX="-22" frameY="0" frameWidth="212" frameHeight="218"/>
+	<SubTexture name="Malke sing Left instance 10008" x="291" y="1310" width="188" height="218" frameX="-22" frameY="0" frameWidth="212" frameHeight="218"/>
+	<SubTexture name="Malke sing Left instance 10009" x="291" y="1310" width="188" height="218" frameX="-22" frameY="0" frameWidth="212" frameHeight="218"/>
+	<SubTexture name="Malke sing Right instance 10000" x="579" y="1310" width="180" height="228" frameX="-7" frameY="0" frameWidth="187" frameHeight="228"/>
+	<SubTexture name="Malke sing Right instance 10001" x="579" y="1310" width="180" height="228" frameX="-7" frameY="0" frameWidth="187" frameHeight="228"/>
+	<SubTexture name="Malke sing Right instance 10002" x="859" y="1310" width="181" height="228" frameX="-3" frameY="0" frameWidth="187" frameHeight="228"/>
+	<SubTexture name="Malke sing Right instance 10003" x="1140" y="1310" width="181" height="228" frameX="-2" frameY="0" frameWidth="187" frameHeight="228"/>
+	<SubTexture name="Malke sing Right instance 10004" x="1140" y="1310" width="181" height="228" frameX="-2" frameY="0" frameWidth="187" frameHeight="228"/>
+	<SubTexture name="Malke sing Right instance 10005" x="1421" y="1310" width="182" height="228" frameX="0" frameY="0" frameWidth="187" frameHeight="228"/>
+	<SubTexture name="Malke sing Right instance 10006" x="1421" y="1310" width="182" height="228" frameX="0" frameY="0" frameWidth="187" frameHeight="228"/>
+	<SubTexture name="Malke sing Right instance 10007" x="1421" y="1310" width="182" height="228" frameX="0" frameY="0" frameWidth="187" frameHeight="228"/>
+	<SubTexture name="Malke sing Right instance 10008" x="1421" y="1310" width="182" height="228" frameX="0" frameY="0" frameWidth="187" frameHeight="228"/>
+	<SubTexture name="Malke sing Right instance 10009" x="1421" y="1310" width="182" height="228" frameX="0" frameY="0" frameWidth="187" frameHeight="228"/>
+	<SubTexture name="Malke sing Up instance 10000" x="1703" y="1310" width="206" height="241" frameX="-5" frameY="0" frameWidth="211" frameHeight="241"/>
+	<SubTexture name="Malke sing Up instance 10001" x="1703" y="1310" width="206" height="241" frameX="-5" frameY="0" frameWidth="211" frameHeight="241"/>
+	<SubTexture name="Malke sing Up instance 10002" x="2009" y="1310" width="208" height="239" frameX="-1" frameY="-2" frameWidth="211" frameHeight="241"/>
+	<SubTexture name="Malke sing Up instance 10003" x="2009" y="1310" width="208" height="239" frameX="-1" frameY="-2" frameWidth="211" frameHeight="241"/>
+	<SubTexture name="Malke sing Up instance 10004" x="2317" y="1310" width="205" height="235" frameX="0" frameY="-6" frameWidth="211" frameHeight="241"/>
+	<SubTexture name="Malke sing Up instance 10005" x="2622" y="1310" width="199" height="230" frameX="-4" frameY="-11" frameWidth="211" frameHeight="241"/>
+	<SubTexture name="Malke sing Up instance 10006" x="2921" y="1310" width="199" height="230" frameX="-4" frameY="-11" frameWidth="211" frameHeight="241"/>
+	<SubTexture name="Malke sing Up instance 10007" x="2921" y="1310" width="199" height="230" frameX="-4" frameY="-11" frameWidth="211" frameHeight="241"/>
+	<SubTexture name="Malke sing Up instance 10008" x="2921" y="1310" width="199" height="230" frameX="-4" frameY="-11" frameWidth="211" frameHeight="241"/>
+	<SubTexture name="Malke sing Up instance 10009" x="2921" y="1310" width="199" height="230" frameX="-4" frameY="-11" frameWidth="211" frameHeight="241"/>
+</TextureAtlas>

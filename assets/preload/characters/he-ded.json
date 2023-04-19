@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				300,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Gmod Yoshi firstDeath"
+		},
+		{
+			"offsets": [
+				300,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "he dead lol",
+			"loop": true,
+			"name": "Gmod Yoshi deathLoop"
+		},
+		{
+			"offsets": [
+				300,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "no still dead",
+			"loop": true,
+			"name": "Gmod Yoshi deathConfirn"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/he_explode_LOLLLLLLLLLLLLLLL_DUMBASS",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gmod",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		60,
+		0
+	],
+	"camera_position": [
+		-50,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="blue_star.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="unused blue star from origanl game boppin0000" x="0" y="0" width="173" height="140" frameX="0" frameY="-28" frameWidth="173" frameHeight="195"/>
+	<SubTexture name="unused blue star from origanl game boppin0001" x="173" y="0" width="173" height="153" frameX="0" frameY="-21" frameWidth="173" frameHeight="195"/>
+	<SubTexture name="unused blue star from origanl game boppin0002" x="346" y="0" width="173" height="171" frameX="0" frameY="-12" frameWidth="173" frameHeight="195"/>
+	<SubTexture name="unused blue star from origanl game boppin0003" x="519" y="0" width="173" height="183" frameX="0" frameY="-6" frameWidth="173" frameHeight="195"/>
+	<SubTexture name="unused blue star from origanl game boppin0004" x="519" y="0" width="173" height="183" frameX="0" frameY="-6" frameWidth="173" frameHeight="195"/>
+	<SubTexture name="unused blue star from origanl game boppin0005" x="692" y="0" width="173" height="195"/>
+</TextureAtlas>

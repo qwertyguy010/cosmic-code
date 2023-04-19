@@ -1,0 +1,32 @@
+{
+	"storyName": "Yeetzer Qdegon MXMilu VS YM420 Malke YTPSMAL",
+	"difficulties": "",
+	"hideFreeplay": true,
+	"weekBackground": "",
+	"weekBefore": "week8",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Triple Trouble",
+			"blue-lobster",
+			[
+				0,
+				160,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "week2"
+}

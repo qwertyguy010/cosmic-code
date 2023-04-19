@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gmod.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gmod Yoshi Down0000" x="0" y="0" width="257" height="230"/>
+	<SubTexture name="Gmod Yoshi Down0001" x="0" y="0" width="257" height="230"/>
+	<SubTexture name="Gmod Yoshi Down0002" x="0" y="0" width="257" height="230"/>
+	<SubTexture name="Gmod Yoshi Idle0000" x="257" y="0" width="223" height="374" frameX="-7" frameY="-14" frameWidth="255" frameHeight="406"/>
+	<SubTexture name="Gmod Yoshi Idle0001" x="480" y="0" width="246" height="381" frameX="-9" frameY="-25" frameWidth="255" frameHeight="406"/>
+	<SubTexture name="Gmod Yoshi Idle0002" x="726" y="0" width="236" height="378" frameX="0" frameY="-20" frameWidth="255" frameHeight="406"/>
+	<SubTexture name="Gmod Yoshi Idle0003" x="962" y="0" width="214" height="390" frameX="-19" frameY="-7" frameWidth="255" frameHeight="406"/>
+	<SubTexture name="Gmod Yoshi Idle0004" x="1176" y="0" width="217" height="382" frameX="-11" frameY="-14" frameWidth="255" frameHeight="406"/>
+	<SubTexture name="Gmod Yoshi Idle0005" x="1393" y="0" width="215" height="369" frameX="-4" frameY="-22" frameWidth="255" frameHeight="406"/>
+	<SubTexture name="Gmod Yoshi Idle0006" x="1608" y="0" width="230" height="375" frameX="0" frameY="-10" frameWidth="255" frameHeight="406"/>
+	<SubTexture name="Gmod Yoshi Idle0007" x="0" y="390" width="221" height="375" frameX="-8" frameY="-18" frameWidth="255" frameHeight="406"/>
+	<SubTexture name="Gmod Yoshi Idle0008" x="221" y="390" width="234" height="393" frameX="-12" frameY="-5" frameWidth="255" frameHeight="406"/>
+	<SubTexture name="Gmod Yoshi Idle0009" x="455" y="390" width="216" height="366" frameX="-1" frameY="0" frameWidth="255" frameHeight="406"/>
+	<SubTexture name="Gmod Yoshi Idle0010" x="671" y="390" width="226" height="381" frameX="-4" frameY="-17" frameWidth="255" frameHeight="406"/>
+	<SubTexture name="Gmod Yoshi Idle0011" x="897" y="390" width="235" height="384" frameX="-1" frameY="-5" frameWidth="255" frameHeight="406"/>
+	<SubTexture name="Gmod Yoshi Idle0012" x="1132" y="390" width="222" height="373" frameX="-17" frameY="-9" frameWidth="255" frameHeight="406"/>
+	<SubTexture name="Gmod Yoshi Idle0013" x="1354" y="390" width="213" height="381" frameX="-21" frameY="-17" frameWidth="255" frameHeight="406"/>
+	<SubTexture name="Gmod Yoshi Idle0014" x="1354" y="390" width="213" height="381" frameX="-21" frameY="-17" frameWidth="255" frameHeight="406"/>
+	<SubTexture name="Gmod Yoshi Left0000" x="1567" y="390" width="224" height="453" frameX="-48" frameY="-5" frameWidth="272" frameHeight="458"/>
+	<SubTexture name="Gmod Yoshi Left0001" x="0" y="843" width="258" height="425" frameX="0" frameY="-33" frameWidth="272" frameHeight="458"/>
+	<SubTexture name="Gmod Yoshi Left0002" x="258" y="843" width="218" height="381" frameX="-38" frameY="0" frameWidth="272" frameHeight="458"/>
+	<SubTexture name="Gmod Yoshi Right0000" x="476" y="843" width="285" height="332" frameX="-38" frameY="0" frameWidth="466" frameHeight="387"/>
+	<SubTexture name="Gmod Yoshi Right0001" x="761" y="843" width="285" height="332" frameX="-38" frameY="0" frameWidth="466" frameHeight="387"/>
+	<SubTexture name="Gmod Yoshi Right0002" x="1046" y="843" width="315" height="316" frameX="-151" frameY="-2" frameWidth="466" frameHeight="387"/>
+	<SubTexture name="Gmod Yoshi Right0003" x="1361" y="843" width="312" height="317" frameX="0" frameY="-4" frameWidth="466" frameHeight="387"/>
+	<SubTexture name="Gmod Yoshi Right0004" x="1673" y="843" width="238" height="379" frameX="-109" frameY="-8" frameWidth="466" frameHeight="387"/>
+	<SubTexture name="Gmod Yoshi Right0005" x="0" y="1268" width="239" height="328" frameX="-107" frameY="-17" frameWidth="466" frameHeight="387"/>
+	<SubTexture name="Gmod Yoshi Right0006" x="239" y="1268" width="240" height="313" frameX="-107" frameY="-25" frameWidth="466" frameHeight="387"/>
+	<SubTexture name="Gmod Yoshi Right0007" x="479" y="1268" width="238" height="311" frameX="-109" frameY="-24" frameWidth="466" frameHeight="387"/>
+	<SubTexture name="Gmod Yoshi Up0000" x="717" y="1268" width="164" height="221" frameX="-24" frameY="-269" frameWidth="206" frameHeight="500"/>
+	<SubTexture name="Gmod Yoshi Up0001" x="881" y="1268" width="193" height="207" frameX="0" frameY="0" frameWidth="206" frameHeight="500"/>
+	<SubTexture name="Gmod Yoshi Up0002" x="1074" y="1268" width="185" height="225" frameX="-21" frameY="-226" frameWidth="206" frameHeight="500"/>
+	<SubTexture name="Gmod Yoshi Up0003" x="1259" y="1268" width="178" height="205" frameX="-16" frameY="-264" frameWidth="206" frameHeight="500"/>
+	<SubTexture name="Gmod Yoshi Up0004" x="1437" y="1268" width="178" height="207" frameX="-16" frameY="-262" frameWidth="206" frameHeight="500"/>
+	<SubTexture name="Gmod Yoshi Up0005" x="1615" y="1268" width="178" height="209" frameX="-16" frameY="-260" frameWidth="206" frameHeight="500"/>
+	<SubTexture name="Gmod Yoshi Up0006" x="1793" y="1268" width="180" height="186" frameX="-24" frameY="-314" frameWidth="206" frameHeight="500"/>
+</TextureAtlas>

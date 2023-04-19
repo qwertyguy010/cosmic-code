@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="he_explode_LOLLLLLLLLLLLLLLL_DUMBASS.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gmod Yoshi deathConfirn0000" x="0" y="0" width="1600" height="900"/>
+	<SubTexture name="Gmod Yoshi deathLoop0000" x="0" y="0" width="1600" height="900"/>
+	<SubTexture name="Gmod Yoshi firstDeath0000" x="1600" y="0" width="1600" height="900"/>
+	<SubTexture name="Gmod Yoshi firstDeath0001" x="3200" y="0" width="1600" height="900"/>
+	<SubTexture name="Gmod Yoshi firstDeath0002" x="3200" y="0" width="1600" height="900"/>
+	<SubTexture name="Gmod Yoshi firstDeath0003" x="3200" y="0" width="1600" height="900"/>
+	<SubTexture name="Gmod Yoshi firstDeath0004" x="4800" y="0" width="1600" height="900"/>
+	<SubTexture name="Gmod Yoshi firstDeath0005" x="6400" y="0" width="1600" height="900"/>
+	<SubTexture name="Gmod Yoshi firstDeath0006" x="0" y="900" width="1600" height="900"/>
+	<SubTexture name="Gmod Yoshi firstDeath0007" x="1600" y="900" width="1600" height="900"/>
+	<SubTexture name="Gmod Yoshi firstDeath0008" x="3200" y="900" width="1600" height="900"/>
+	<SubTexture name="Gmod Yoshi firstDeath0009" x="4800" y="900" width="1600" height="900"/>
+	<SubTexture name="Gmod Yoshi firstDeath0010" x="6400" y="900" width="1600" height="900"/>
+	<SubTexture name="Gmod Yoshi firstDeath0011" x="0" y="1800" width="1600" height="900"/>
+	<SubTexture name="Gmod Yoshi firstDeath0012" x="1600" y="1800" width="1600" height="900"/>
+</TextureAtlas>

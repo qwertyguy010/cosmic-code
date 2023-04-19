@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF_death_blackhole_assets.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blackhole Dead Loop0000" x="0" y="0" width="895" height="996" frameX="-48" frameY="0" frameWidth="992" frameHeight="996"/>
+	<SubTexture name="blackhole Dead Loop0001" x="895" y="0" width="941" height="941" frameX="-30" frameY="-5" frameWidth="992" frameHeight="996"/>
+	<SubTexture name="blackhole Dead Loop0002" x="1836" y="0" width="989" height="905" frameX="-2" frameY="-42" frameWidth="992" frameHeight="996"/>
+	<SubTexture name="blackhole Dead Loop0003" x="2825" y="0" width="925" height="954" frameX="-58" frameY="-18" frameWidth="992" frameHeight="996"/>
+	<SubTexture name="blackhole Dead Loop0004" x="3750" y="0" width="902" height="994" frameX="-49" frameY="0" frameWidth="992" frameHeight="996"/>
+	<SubTexture name="blackhole Dead Loop0005" x="4652" y="0" width="992" height="884" frameX="0" frameY="-50" frameWidth="992" frameHeight="996"/>
+	<SubTexture name="blackhole Dead Loop0006" x="5644" y="0" width="884" height="992" frameX="-61" frameY="0" frameWidth="992" frameHeight="996"/>
+	<SubTexture name="blackhole Dead confirm0000" x="6528" y="0" width="980" height="921" frameX="0" frameY="-36" frameWidth="980" frameHeight="1000"/>
+	<SubTexture name="blackhole Dead confirm0001" x="0" y="996" width="918" height="956" frameX="-24" frameY="-28" frameWidth="980" frameHeight="1000"/>
+	<SubTexture name="blackhole Dead confirm0002" x="918" y="996" width="907" height="987" frameX="-45" frameY="-8" frameWidth="980" frameHeight="1000"/>
+	<SubTexture name="blackhole Dead confirm0003" x="1825" y="996" width="888" height="996" frameX="-56" frameY="-4" frameWidth="980" frameHeight="1000"/>
+	<SubTexture name="blackhole Dead confirm0004" x="2713" y="996" width="914" height="986" frameX="-50" frameY="0" frameWidth="980" frameHeight="1000"/>
+	<SubTexture name="blackhole dies0000" x="3627" y="996" width="433" height="415" frameX="-448" frameY="-305" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0001" x="4060" y="996" width="433" height="415" frameX="-448" frameY="-305" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0002" x="4493" y="996" width="439" height="411" frameX="-447" frameY="-311" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0003" x="4932" y="996" width="439" height="411" frameX="-447" frameY="-311" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0004" x="5371" y="996" width="439" height="411" frameX="-447" frameY="-311" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0005" x="5810" y="996" width="439" height="411" frameX="-447" frameY="-311" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0006" x="6249" y="996" width="439" height="411" frameX="-447" frameY="-311" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0007" x="6249" y="996" width="439" height="411" frameX="-447" frameY="-311" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0008" x="6249" y="996" width="439" height="411" frameX="-447" frameY="-311" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0009" x="6249" y="996" width="439" height="411" frameX="-447" frameY="-311" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0010" x="6249" y="996" width="439" height="411" frameX="-447" frameY="-311" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0011" x="6249" y="996" width="439" height="411" frameX="-447" frameY="-311" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0012" x="6249" y="996" width="439" height="411" frameX="-447" frameY="-311" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0013" x="6249" y="996" width="439" height="411" frameX="-447" frameY="-311" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0014" x="6249" y="996" width="439" height="411" frameX="-447" frameY="-311" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0015" x="6688" y="996" width="452" height="449" frameX="-434" frameY="-286" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0016" x="5371" y="996" width="439" height="411" frameX="-417" frameY="-269" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0017" x="7140" y="996" width="532" height="540" frameX="-391" frameY="-240" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0018" x="0" y="1992" width="571" height="601" frameX="-374" frameY="-208" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0019" x="571" y="1992" width="679" height="669" frameX="-320" frameY="-165" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0020" x="1250" y="1992" width="784" height="766" frameX="-264" frameY="-114" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0021" x="2034" y="1992" width="875" height="850" frameX="-218" frameY="-68" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0022" x="2909" y="1992" width="984" height="907" frameX="-165" frameY="-53" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0023" x="3893" y="1992" width="996" height="888" frameX="-159" frameY="-64" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0024" x="4889" y="1992" width="985" height="914" frameX="-174" frameY="-58" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0025" x="5874" y="1992" width="927" height="952" frameX="-218" frameY="-32" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0026" x="6801" y="1992" width="908" height="985" frameX="-207" frameY="-17" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0027" x="0" y="2977" width="889" height="991" frameX="-208" frameY="-17" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0028" x="889" y="2977" width="951" height="925" frameX="-184" frameY="-71" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0029" x="1840" y="2977" width="991" height="904" frameX="-163" frameY="-61" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0030" x="2831" y="2977" width="978" height="924" frameX="-157" frameY="-43" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0031" x="3809" y="2977" width="918" height="956" frameX="-183" frameY="-37" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0032" x="4727" y="2977" width="895" height="996" frameX="-210" frameY="-13" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0033" x="5622" y="2977" width="941" height="941" frameX="-192" frameY="-18" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0034" x="6563" y="2977" width="1033" height="905" frameX="-164" frameY="-55" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0035" x="0" y="3973" width="1000" height="954" frameX="-220" frameY="-31" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0036" x="1000" y="3973" width="1035" height="994" frameX="-211" frameY="-13" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0037" x="2035" y="3973" width="1022" height="989" frameX="-162" frameY="-63" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0038" x="3057" y="3973" width="933" height="1106" frameX="-171" frameY="-37" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0039" x="3990" y="3973" width="902" height="1157" frameX="-206" frameY="-14" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0040" x="4892" y="3973" width="884" height="1132" frameX="-223" frameY="-13" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0041" x="5776" y="3973" width="951" height="1132" frameX="-182" frameY="-14" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0042" x="6727" y="3973" width="1044" height="1012" frameX="-90" frameY="-30" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0043" x="0" y="5130" width="1096" height="905" frameX="-57" frameY="-55" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0044" x="1096" y="5130" width="1161" height="920" frameX="0" frameY="-55" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0045" x="2257" y="5130" width="1064" height="954" frameX="-81" frameY="-31" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0046" x="3321" y="5130" width="997" height="962" frameX="-131" frameY="-27" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0047" x="4318" y="5130" width="935" height="963" frameX="-188" frameY="-46" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0048" x="5253" y="5130" width="995" height="914" frameX="-162" frameY="-39" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0049" x="6248" y="5130" width="945" height="957" frameX="-166" frameY="-20" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0050" x="7193" y="5130" width="908" height="996" frameX="-203" frameY="0" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0051" x="0" y="6126" width="1050" height="995" frameX="-208" frameY="-13" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0052" x="1050" y="6126" width="1082" height="991" frameX="-221" frameY="-12" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0053" x="2132" y="6126" width="1151" height="969" frameX="-199" frameY="-10" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0054" x="3283" y="6126" width="977" height="931" frameX="-191" frameY="-23" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0055" x="4260" y="6126" width="996" height="889" frameX="-162" frameY="-64" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0056" x="5256" y="6126" width="987" height="910" frameX="-174" frameY="-61" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0057" x="6243" y="6126" width="927" height="950" frameX="-220" frameY="-34" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0058" x="7170" y="6126" width="907" height="982" frameX="-210" frameY="-19" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0059" x="0" y="7121" width="886" height="993" frameX="-212" frameY="-15" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0060" x="886" y="7121" width="941" height="934" frameX="-186" frameY="-66" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0061" x="1827" y="7121" width="956" height="918" frameX="-187" frameY="-68" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0062" x="2783" y="7121" width="978" height="923" frameX="-159" frameY="-44" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0063" x="3761" y="7121" width="913" height="965" frameX="-196" frameY="-30" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0064" x="4674" y="7121" width="905" height="990" frameX="-206" frameY="-16" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0065" x="5579" y="7121" width="911" height="986" frameX="-211" frameY="-10" frameWidth="1350" frameHeight="1171"/>
+	<SubTexture name="blackhole dies0066" x="6490" y="7121" width="885" height="995" frameX="-218" frameY="-13" frameWidth="1350" frameHeight="1171"/>
+</TextureAtlas>

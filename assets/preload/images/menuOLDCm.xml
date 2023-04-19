@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menuOLDCm.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="menu OLDCM idle0000" x="0" y="0" width="264" height="466" frameX="0" frameY="-11" frameWidth="264" frameHeight="477"/>
+	<SubTexture name="menu OLDCM idle0001" x="0" y="0" width="264" height="466" frameX="0" frameY="-11" frameWidth="264" frameHeight="477"/>
+	<SubTexture name="menu OLDCM idle0002" x="364" y="0" width="260" height="469" frameX="-2" frameY="-8" frameWidth="264" frameHeight="477"/>
+	<SubTexture name="menu OLDCM idle0003" x="724" y="0" width="248" height="473" frameX="-8" frameY="-4" frameWidth="264" frameHeight="477"/>
+	<SubTexture name="menu OLDCM idle0004" x="724" y="0" width="248" height="473" frameX="-8" frameY="-4" frameWidth="264" frameHeight="477"/>
+	<SubTexture name="menu OLDCM idle0005" x="1072" y="0" width="235" height="477" frameX="-15" frameY="0" frameWidth="264" frameHeight="477"/>
+	<SubTexture name="menu OLDCM idle0006" x="1072" y="0" width="235" height="477" frameX="-15" frameY="0" frameWidth="264" frameHeight="477"/>
+	<SubTexture name="menu OLDCM idle0007" x="1072" y="0" width="235" height="477" frameX="-15" frameY="0" frameWidth="264" frameHeight="477"/>
+	<SubTexture name="menu OLDCM idle0008" x="1072" y="0" width="235" height="477" frameX="-15" frameY="0" frameWidth="264" frameHeight="477"/>
+	<SubTexture name="menu OLDCM idle0009" x="1072" y="0" width="235" height="477" frameX="-15" frameY="0" frameWidth="264" frameHeight="477"/>
+</TextureAtlas>

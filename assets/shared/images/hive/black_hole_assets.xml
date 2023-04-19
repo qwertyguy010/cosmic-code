@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="black_hole_assets.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blackhole scary0000" x="0" y="0" width="794" height="846" frameX="-30" frameY="-4" frameWidth="854" frameHeight="855"/>
+	<SubTexture name="blackhole scary0001" x="794" y="0" width="814" height="839" frameX="-25" frameY="0" frameWidth="854" frameHeight="855"/>
+	<SubTexture name="blackhole scary0002" x="1608" y="0" width="827" height="823" frameX="-18" frameY="-1" frameWidth="854" frameHeight="855"/>
+	<SubTexture name="blackhole scary0003" x="2435" y="0" width="829" height="810" frameX="-16" frameY="-6" frameWidth="854" frameHeight="855"/>
+	<SubTexture name="blackhole scary0004" x="3264" y="0" width="831" height="808" frameX="-10" frameY="-7" frameWidth="854" frameHeight="855"/>
+	<SubTexture name="blackhole scary0005" x="4095" y="0" width="829" height="807" frameX="-11" frameY="-20" frameWidth="854" frameHeight="855"/>
+	<SubTexture name="blackhole scary0006" x="4924" y="0" width="844" height="806" frameX="-5" frameY="-23" frameWidth="854" frameHeight="855"/>
+	<SubTexture name="blackhole scary0007" x="5768" y="0" width="847" height="796" frameX="-3" frameY="-29" frameWidth="854" frameHeight="855"/>
+	<SubTexture name="blackhole scary0008" x="6615" y="0" width="841" height="810" frameX="-13" frameY="-28" frameWidth="854" frameHeight="855"/>
+	<SubTexture name="blackhole scary0009" x="0" y="846" width="810" height="828" frameX="-38" frameY="-17" frameWidth="854" frameHeight="855"/>
+	<SubTexture name="blackhole scary0010" x="810" y="846" width="807" height="831" frameX="-26" frameY="-11" frameWidth="854" frameHeight="855"/>
+	<SubTexture name="blackhole scary0011" x="1617" y="846" width="798" height="847" frameX="-29" frameY="-4" frameWidth="854" frameHeight="855"/>
+	<SubTexture name="blackhole scary0012" x="2415" y="846" width="815" height="838" frameX="-14" frameY="-17" frameWidth="854" frameHeight="855"/>
+	<SubTexture name="blackhole scary0013" x="3230" y="846" width="830" height="812" frameX="-8" frameY="-38" frameWidth="854" frameHeight="855"/>
+	<SubTexture name="blackhole scary0014" x="4060" y="846" width="829" height="810" frameX="-15" frameY="-34" frameWidth="854" frameHeight="855"/>
+	<SubTexture name="blackhole scary0015" x="4889" y="846" width="833" height="808" frameX="-10" frameY="-25" frameWidth="854" frameHeight="855"/>
+	<SubTexture name="blackhole scary0016" x="5722" y="846" width="846" height="793" frameX="-4" frameY="-31" frameWidth="854" frameHeight="855"/>
+	<SubTexture name="blackhole scary0017" x="6568" y="846" width="827" height="826" frameX="0" frameY="-10" frameWidth="854" frameHeight="855"/>
+	<SubTexture name="blackhole scary0018" x="0" y="1693" width="809" height="830" frameX="-10" frameY="-15" frameWidth="854" frameHeight="855"/>
+	<SubTexture name="blackhole scary0019" x="809" y="1693" width="807" height="833" frameX="-22" frameY="-11" frameWidth="854" frameHeight="855"/>
+	<SubTexture name="blackhole scary0020" x="1616" y="1693" width="796" height="847" frameX="-28" frameY="-4" frameWidth="854" frameHeight="855"/>
+</TextureAtlas>

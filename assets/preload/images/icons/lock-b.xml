@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lock-b.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ICON BL UKWN LCK0000" x="0" y="0" width="127" height="150" frameX="0" frameY="-2" frameWidth="130" frameHeight="155"/>
+	<SubTexture name="ICON BL UKWN LCK0001" x="128" y="0" width="127" height="150" frameX="0" frameY="-2" frameWidth="130" frameHeight="155"/>
+	<SubTexture name="ICON BL UKWN LCK0002" x="256" y="0" width="130" height="155"/>
+</TextureAtlas>

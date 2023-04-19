@@ -1,0 +1,32 @@
+{
+	"storyName": "B-Side",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "hive",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week8",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"cl",
+		"",
+		"b-side-bf"
+	],
+	"songs": [
+		[
+			"Dark Plumber B-Side",
+			"cl",
+			[
+				80,
+				0,
+				235
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "week11",
+	"hiddenUntilUnlocked": true
+}

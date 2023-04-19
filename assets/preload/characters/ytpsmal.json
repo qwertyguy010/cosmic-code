@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Ytp idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Ytp Sing Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				-14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Ytp Sing Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				43
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Ytp Sing Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Ytp Sing Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				8
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Ytp LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				-14
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Ytp DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				43
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Ytp UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				3
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "YTP RIGHT MISS",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ytpsmal-assets",
+	"position": [
+		290,
+		400
+	],
+	"healthicon": "ytp",
+	"flip_x": true,
+	"healthbar_colors": [
+		102,
+		51,
+		0
+	],
+	"camera_position": [
+		-190,
+		240
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

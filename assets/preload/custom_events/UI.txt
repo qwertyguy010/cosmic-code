@@ -1,0 +1,4 @@
+make the UI away 0 = fade out, 1 = fade in.
+
+Value 1: Duration (0 = Instant)
+Value 2: Target transparency value

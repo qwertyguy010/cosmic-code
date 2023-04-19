@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tt_maddo_bg.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Maddo bopping0000" x="0" y="0" width="80" height="68" frameX="0" frameY="-6" frameWidth="97" frameHeight="74"/>
+	<SubTexture name="Maddo bopping0001" x="0" y="0" width="80" height="68" frameX="0" frameY="-6" frameWidth="97" frameHeight="74"/>
+	<SubTexture name="Maddo bopping0002" x="0" y="0" width="80" height="68" frameX="0" frameY="-6" frameWidth="97" frameHeight="74"/>
+	<SubTexture name="Maddo bopping0003" x="80" y="0" width="80" height="71" frameX="-2" frameY="-1" frameWidth="97" frameHeight="74"/>
+	<SubTexture name="Maddo bopping0004" x="160" y="0" width="81" height="70" frameX="-3" frameY="-1" frameWidth="97" frameHeight="74"/>
+	<SubTexture name="Maddo bopping0005" x="160" y="0" width="81" height="70" frameX="-3" frameY="-1" frameWidth="97" frameHeight="74"/>
+	<SubTexture name="Maddo bopping0006" x="241" y="0" width="81" height="69" frameX="-5" frameY="-1" frameWidth="97" frameHeight="74"/>
+	<SubTexture name="Maddo bopping0007" x="241" y="0" width="81" height="69" frameX="-5" frameY="-1" frameWidth="97" frameHeight="74"/>
+	<SubTexture name="Maddo bopping0008" x="322" y="0" width="82" height="69" frameX="-6" frameY="-1" frameWidth="97" frameHeight="74"/>
+	<SubTexture name="Maddo bopping0009" x="322" y="0" width="82" height="69" frameX="-6" frameY="-1" frameWidth="97" frameHeight="74"/>
+	<SubTexture name="Maddo bopping0010" x="322" y="0" width="82" height="69" frameX="-6" frameY="-1" frameWidth="97" frameHeight="74"/>
+	<SubTexture name="Maddo bopping0011" x="404" y="0" width="87" height="66" frameX="-10" frameY="-4" frameWidth="97" frameHeight="74"/>
+	<SubTexture name="Maddo bopping0012" x="404" y="0" width="87" height="66" frameX="-10" frameY="-4" frameWidth="97" frameHeight="74"/>
+	<SubTexture name="Maddo bopping0013" x="0" y="71" width="84" height="70" frameX="-10" frameY="0" frameWidth="97" frameHeight="74"/>
+	<SubTexture name="Maddo bopping0014" x="0" y="71" width="84" height="70" frameX="-10" frameY="0" frameWidth="97" frameHeight="74"/>
+	<SubTexture name="Maddo bopping0015" x="84" y="71" width="84" height="69" frameX="-8" frameY="0" frameWidth="97" frameHeight="74"/>
+	<SubTexture name="Maddo bopping0016" x="84" y="71" width="84" height="69" frameX="-8" frameY="0" frameWidth="97" frameHeight="74"/>
+	<SubTexture name="Maddo bopping0017" x="84" y="71" width="84" height="69" frameX="-8" frameY="0" frameWidth="97" frameHeight="74"/>
+	<SubTexture name="Maddo bopping0018" x="168" y="71" width="84" height="69" frameX="-6" frameY="0" frameWidth="97" frameHeight="74"/>
+	<SubTexture name="Maddo bopping0019" x="252" y="71" width="83" height="70" frameX="-5" frameY="0" frameWidth="97" frameHeight="74"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="errorlol.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="error pop up0000" x="0" y="0" width="999" height="506" frameX="0" frameY="-37" frameWidth="999" frameHeight="543"/>
+	<SubTexture name="error pop up0001" x="1002" y="0" width="999" height="507" frameX="0" frameY="-33" frameWidth="999" frameHeight="543"/>
+	<SubTexture name="error pop up0002" x="2004" y="0" width="999" height="507" frameX="0" frameY="-27" frameWidth="999" frameHeight="543"/>
+	<SubTexture name="error pop up0003" x="3006" y="0" width="999" height="507" frameX="0" frameY="-21" frameWidth="999" frameHeight="543"/>
+	<SubTexture name="error pop up0004" x="0" y="510" width="999" height="507" frameX="0" frameY="-11" frameWidth="999" frameHeight="543"/>
+	<SubTexture name="error pop up0005" x="1002" y="510" width="999" height="507" frameX="0" frameY="-5" frameWidth="999" frameHeight="543"/>
+	<SubTexture name="error pop up0006" x="2004" y="510" width="999" height="507" frameX="0" frameY="-1" frameWidth="999" frameHeight="543"/>
+	<SubTexture name="error pop up0007" x="3006" y="510" width="999" height="506" frameX="0" frameY="0" frameWidth="999" frameHeight="543"/>
+	<SubTexture name="error pop up0008" x="0" y="1020" width="999" height="506" frameX="0" frameY="0" frameWidth="999" frameHeight="543"/>
+	<SubTexture name="error pop up0009" x="1002" y="1020" width="999" height="506" frameX="0" frameY="0" frameWidth="999" frameHeight="543"/>
+	<SubTexture name="error pop up0010" x="2004" y="1020" width="999" height="506" frameX="0" frameY="0" frameWidth="999" frameHeight="543"/>
+	<SubTexture name="error pop up0011" x="3006" y="1020" width="999" height="506" frameX="0" frameY="0" frameWidth="999" frameHeight="543"/>
+	<SubTexture name="error pop up0012" x="0" y="1529" width="999" height="506" frameX="0" frameY="0" frameWidth="999" frameHeight="543"/>
+	<SubTexture name="error pop up0013" x="1002" y="1529" width="999" height="506" frameX="0" frameY="0" frameWidth="999" frameHeight="543"/>
+</TextureAtlas>

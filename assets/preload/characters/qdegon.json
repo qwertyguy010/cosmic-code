@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				177,
+				67
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "qidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "qdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				216,
+				111
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "qup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				202,
+				-46
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "qright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				149,
+				94
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "qleft",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/qdegon",
+	"position": [
+		-190,
+		-210
+	],
+	"healthicon": "qdegon",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		246,
+		173
+	],
+	"camera_position": [
+		30,
+		330
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}

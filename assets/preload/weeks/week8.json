@@ -1,0 +1,50 @@
+{
+	"storyName": "Cosmic Approching",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "hive",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Plumber Racer",
+			"cm",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"Approaching",
+			"cm",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"Dark Plumber",
+			"cm",
+			[
+				0,
+				0,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"cm",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
