@@ -867,9 +867,9 @@ class PlayState extends MusicBeatState
 
 				var youAreTrash:BGSprite = new BGSprite('ttstage/tt_trash', 476, 355, 0.95, 0.95);
 				youAreTrash.antialiasing = true;
-
+				// im sorry...
 				add(youAreTrash);
-				// lol
+				// IMSORRY
 
 				var popcat:BGSprite = new BGSprite('ttstage/tt_pic', 593, 209, 0.95, 0.95);
 				popcat.antialiasing = true;
