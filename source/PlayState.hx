@@ -865,10 +865,10 @@ class PlayState extends MusicBeatState
 
 				add(vending);
 
-				var youAreTrash:BGSprite = new BGSprite('ttstage/tt_trash', 476, 355, 0.95, 0.95);
-				youAreTrash.antialiasing = true;
+				var youAreNotTrash:BGSprite = new BGSprite('ttstage/tt_trash', 476, 355, 0.95, 0.95);
+				youAreNotTrash.antialiasing = true;
 				// im sorry...
-				add(youAreTrash);
+				add(youAreNotTrash);
 				// IMSORRY
 
 				var popcat:BGSprite = new BGSprite('ttstage/tt_pic', 593, 209, 0.95, 0.95);
