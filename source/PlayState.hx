@@ -5401,12 +5401,6 @@ class PlayState extends MusicBeatState
 
 /*
 
-Well that was fun making the mod.
-
-Thank you for playing this mod!
-
-** CM: YOUVE GOTTEN TO BE FUCKING KDDING ME..................... WELLLLLLLLLLLLLLLLL!!!!!
-
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠛⠋⠉⠉⠉⠉⠙⠛⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
@@ -5424,7 +5418,7 @@ Thank you for playing this mod!
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠛⢦⠀⠸⡀⠀⠀                         ⠀⠀⠀⢀⠇⢠⡞⠋⠛⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠤⠠⣄⡆⠀⢇⠀⠀⠀                     ⠀⠀⠀⠀⠀⡜⠀⢸⣧⠔⠂⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⢀⣨⣧⠀⠸⡄⠀⠀⠀                   ⠀⠀⠀⠀⠀⠣⡄⢸⣯⢄⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠈⠀⠹⡼⠛⠁⢰⣶⣄⡀⢀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣆⠀⠀⠱⡾⠁⠀⠀⣼⣿⣿⠿⠛⠻⣿⣿⣿⣿⣿⡇ i got a 3 day ban on Roblox lol
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠈⠀⠹⡼⠛⠁⢰⣶⣄⡀⢀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣆⠀⠀⠱⡾⠁⠀⠀⣼⣿⣿⠿⠛⠻⣿⣿⣿⣿⣿⡇
 ⣿⣿⣿⣿⣿⠋⠀⠀⠙⣿⣿⣿⣿⣆⠀⠀⡀⠀⠀⢻⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⢀⣴⣿⣿⠃⠀⠀⠀⠘⣿⣿⣿⣿⡇
 ⣿⣿⣿⣿⣿⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣶⣿⠀⠀⠀⠛⠿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣿⣿⡟⠋⠁⠀⠀⢠⣷⣶⣿⣿⣿⣿⠀⠀⠀⠀⢠⣿⣿⣿⣿⡇
 ⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠙⠻⠿⠿⢿⣶⣶⣶⣶⣶⣾⣿⣿⠿⠿⠛⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⢸⣿⣿⣿⣿⡇
@@ -5442,103 +5436,5 @@ Thank you for playing this mod!
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣦⣤⣄⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣤⣤⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
 
-SEE YOU AGAIN SOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOONNNNNNNNNNNNNNNNNNNNN!!!!!!!!!!!!!!!!!!!!!!!!! HEHEHEHEEHEhEHHEEHEHEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE -cm-cosmicmario-cosmicm-CosmicMario-CM-Cosmicmario-Cm-COSMICMARIO-CM-
-
--Cosmic Mario...
-
-Thank you for playing!
-
-See ya again soon! :)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1.5...
 
 */
